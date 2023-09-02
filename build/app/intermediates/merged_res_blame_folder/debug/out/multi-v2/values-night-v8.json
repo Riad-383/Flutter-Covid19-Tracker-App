@@ -4,7 +4,7 @@
             "outputFile": "com.example.covid_tracker.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hp\\Downloads\\Flutter-Covid-19-Tracker-App-Tutorials-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\flutter project\\Flutter-Covid-19-Tracker-App\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
